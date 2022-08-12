@@ -1,0 +1,6 @@
+LSystem.model.LSystemAST primary2(sly.lexer.Token`1[LSystem.parser.LSystemToken])
+LSystem.model.LSystemAST operand(LSystem.model.LSystemAST)
+LSystem.model.LSystemAST primary1(sly.lexer.Token`1[LSystem.parser.LSystemToken])
+LSystem.model.LSystemAST operand(LSystem.model.LSystemAST)
+LSystem.model.LSystemAST binaryExpression(LSystem.model.LSystemAST, sly.lexer.Token`1[LSystem.parser.LSystemToken], LSystem.model.LSystemAST)
+LSystem.model.LSystemAST expressionStmt5(LSystem.model.LSystemAST)

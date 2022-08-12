@@ -1,0 +1,43 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Gplex/1.0.0": {
+        "dependencies": {
+          "YaccLexTools.Gplex": "1.2.2.1",
+          "YaccLexTools.Gppg": "1.5.2.1"
+        },
+        "runtime": {
+          "Gplex.dll": {}
+        }
+      },
+      "YaccLexTools.Gplex/1.2.2.1": {},
+      "YaccLexTools.Gppg/1.5.2.1": {}
+    }
+  },
+  "libraries": {
+    "Gplex/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "YaccLexTools.Gplex/1.2.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vwo+tkmYI2qqh0CK9B2QxK2+t3cv7UlraqNNvO5oE68aLGTC98SQgL5BYzDz616m5lRlMWzfY1m1M7pTy9qsBA==",
+      "path": "yacclextools.gplex/1.2.2.1",
+      "hashPath": "yacclextools.gplex.1.2.2.1.nupkg.sha512"
+    },
+    "YaccLexTools.Gppg/1.5.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-EAP+kkoH+YabzuTkwOxKpg04Gdm1FFsXkAK6IJ0jPeELfFBxK9e+QmD6P4Jr+6XFhQxYB/JbgPgyjEqnZ4bNnA==",
+      "path": "yacclextools.gppg/1.5.2.1",
+      "hashPath": "yacclextools.gppg.1.5.2.1.nupkg.sha512"
+    }
+  }
+}
